@@ -44,3 +44,4 @@ cv.waitKey(0)
 cv.destroyAllWindows()
 
 #vẽ một bàn cờ vua đen đỏ có kích thước 8x8, mỗi ô có kích thước 100x100 pixel
+
